@@ -1,0 +1,7 @@
+IN-USE  SSID                          MODE            CHAN  RATE      SIGNAL  BARS  SECURITY  
+        811A                          Infrastruktura  3     270 Mb/s  85      ▂▄▆█  WPA2
+        DESKTOR-KSIDERP 7146          Infrastruktura  11    65 Mb/s   82      ▂▄__  WPA2
+        seks_muzyka_mechatronika_809  Infrastruktura  9     270 Mb/s  39      ▂▄__  WPA1 WPA2
+        Connectify-new1234            Infrastruktura  11    65 Mb/s   37      ▂▄__  WPA2
+        kazi                          Infrastruktura  2     135 Mb/s  34      ▂▄__  WPA1 WPA2
+        ds2_wifi                      Infrastruktura  6     195 Mb/s  22      ▂___  WPA2
